@@ -9,6 +9,10 @@ public class IfElse01 {
 
         if (car||bus) {
             System.out.println("i can go to virginia");
+
+
+        }else{
+            System.out.println("i cant go to virginia");
         }
     }
 }
